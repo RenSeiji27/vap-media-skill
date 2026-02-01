@@ -66,4 +66,4 @@ MIT License - See LICENSE file
 
 ## Author
 
-Created by [@elestirelbilinc](https://skillhub.club/profile/elestirelbilinc)
+Created by [VapAGENT](https://github.com/vapagentmedia)
